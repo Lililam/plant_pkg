@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hw06"
+version = "0.1.0"
+description = ""
+authors = ["Lililam <ll3707@columbia.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^7.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

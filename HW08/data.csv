@@ -1,0 +1,101 @@
+Pokemon Name,Weight,Abilities,Types
+bulbasaur,69,"['overgrow', 'chlorophyll']","['grass', 'poison']"
+ivysaur,130,"['overgrow', 'chlorophyll']","['grass', 'poison']"
+venusaur,1000,"['overgrow', 'chlorophyll']","['grass', 'poison']"
+charmander,85,"['blaze', 'solar-power']",['fire']
+charmeleon,190,"['blaze', 'solar-power']",['fire']
+charizard,905,"['blaze', 'solar-power']","['fire', 'flying']"
+squirtle,90,"['torrent', 'rain-dish']",['water']
+wartortle,225,"['torrent', 'rain-dish']",['water']
+blastoise,855,"['torrent', 'rain-dish']",['water']
+caterpie,29,"['shield-dust', 'run-away']",['bug']
+metapod,99,['shed-skin'],['bug']
+butterfree,320,"['compound-eyes', 'tinted-lens']","['bug', 'flying']"
+weedle,32,"['shield-dust', 'run-away']","['bug', 'poison']"
+kakuna,100,['shed-skin'],"['bug', 'poison']"
+beedrill,295,"['swarm', 'sniper']","['bug', 'poison']"
+pidgey,18,"['keen-eye', 'tangled-feet', 'big-pecks']","['normal', 'flying']"
+pidgeotto,300,"['keen-eye', 'tangled-feet', 'big-pecks']","['normal', 'flying']"
+pidgeot,395,"['keen-eye', 'tangled-feet', 'big-pecks']","['normal', 'flying']"
+rattata,35,"['run-away', 'guts', 'hustle']",['normal']
+raticate,185,"['run-away', 'guts', 'hustle']",['normal']
+spearow,20,"['keen-eye', 'sniper']","['normal', 'flying']"
+fearow,380,"['keen-eye', 'sniper']","['normal', 'flying']"
+ekans,69,"['intimidate', 'shed-skin', 'unnerve']",['poison']
+arbok,650,"['intimidate', 'shed-skin', 'unnerve']",['poison']
+pikachu,60,"['static', 'lightning-rod']",['electric']
+raichu,300,"['static', 'lightning-rod']",['electric']
+sandshrew,120,"['sand-veil', 'sand-rush']",['ground']
+sandslash,295,"['sand-veil', 'sand-rush']",['ground']
+nidoran-f,70,"['poison-point', 'rivalry', 'hustle']",['poison']
+nidorina,200,"['poison-point', 'rivalry', 'hustle']",['poison']
+nidoqueen,600,"['poison-point', 'rivalry', 'sheer-force']","['poison', 'ground']"
+nidoran-m,90,"['poison-point', 'rivalry', 'hustle']",['poison']
+nidorino,195,"['poison-point', 'rivalry', 'hustle']",['poison']
+nidoking,620,"['poison-point', 'rivalry', 'sheer-force']","['poison', 'ground']"
+clefairy,75,"['cute-charm', 'magic-guard', 'friend-guard']",['fairy']
+clefable,400,"['cute-charm', 'magic-guard', 'unaware']",['fairy']
+vulpix,99,"['flash-fire', 'drought']",['fire']
+ninetales,199,"['flash-fire', 'drought']",['fire']
+jigglypuff,55,"['cute-charm', 'competitive', 'friend-guard']","['normal', 'fairy']"
+wigglytuff,120,"['cute-charm', 'competitive', 'frisk']","['normal', 'fairy']"
+zubat,75,"['inner-focus', 'infiltrator']","['poison', 'flying']"
+golbat,550,"['inner-focus', 'infiltrator']","['poison', 'flying']"
+oddish,54,"['chlorophyll', 'run-away']","['grass', 'poison']"
+gloom,86,"['chlorophyll', 'stench']","['grass', 'poison']"
+vileplume,186,"['chlorophyll', 'effect-spore']","['grass', 'poison']"
+paras,54,"['effect-spore', 'dry-skin', 'damp']","['bug', 'grass']"
+parasect,295,"['effect-spore', 'dry-skin', 'damp']","['bug', 'grass']"
+venonat,300,"['compound-eyes', 'tinted-lens', 'run-away']","['bug', 'poison']"
+venomoth,125,"['shield-dust', 'tinted-lens', 'wonder-skin']","['bug', 'poison']"
+diglett,8,"['sand-veil', 'arena-trap', 'sand-force']",['ground']
+dugtrio,333,"['sand-veil', 'arena-trap', 'sand-force']",['ground']
+meowth,42,"['pickup', 'technician', 'unnerve']",['normal']
+persian,320,"['limber', 'technician', 'unnerve']",['normal']
+psyduck,196,"['damp', 'cloud-nine', 'swift-swim']",['water']
+golduck,766,"['damp', 'cloud-nine', 'swift-swim']",['water']
+mankey,280,"['vital-spirit', 'anger-point', 'defiant']",['fighting']
+primeape,320,"['vital-spirit', 'anger-point', 'defiant']",['fighting']
+growlithe,190,"['intimidate', 'flash-fire', 'justified']",['fire']
+arcanine,1550,"['intimidate', 'flash-fire', 'justified']",['fire']
+poliwag,124,"['water-absorb', 'damp', 'swift-swim']",['water']
+poliwhirl,200,"['water-absorb', 'damp', 'swift-swim']",['water']
+poliwrath,540,"['water-absorb', 'damp', 'swift-swim']","['water', 'fighting']"
+abra,195,"['synchronize', 'inner-focus', 'magic-guard']",['psychic']
+kadabra,565,"['synchronize', 'inner-focus', 'magic-guard']",['psychic']
+alakazam,480,"['synchronize', 'inner-focus', 'magic-guard']",['psychic']
+machop,195,"['guts', 'no-guard', 'steadfast']",['fighting']
+machoke,705,"['guts', 'no-guard', 'steadfast']",['fighting']
+machamp,1300,"['guts', 'no-guard', 'steadfast']",['fighting']
+bellsprout,40,"['chlorophyll', 'gluttony']","['grass', 'poison']"
+weepinbell,64,"['chlorophyll', 'gluttony']","['grass', 'poison']"
+victreebel,155,"['chlorophyll', 'gluttony']","['grass', 'poison']"
+tentacool,455,"['clear-body', 'liquid-ooze', 'rain-dish']","['water', 'poison']"
+tentacruel,550,"['clear-body', 'liquid-ooze', 'rain-dish']","['water', 'poison']"
+geodude,200,"['rock-head', 'sturdy', 'sand-veil']","['rock', 'ground']"
+graveler,1050,"['rock-head', 'sturdy', 'sand-veil']","['rock', 'ground']"
+golem,3000,"['rock-head', 'sturdy', 'sand-veil']","['rock', 'ground']"
+ponyta,300,"['run-away', 'flash-fire', 'flame-body']",['fire']
+rapidash,950,"['run-away', 'flash-fire', 'flame-body']",['fire']
+slowpoke,360,"['oblivious', 'own-tempo', 'regenerator']","['water', 'psychic']"
+slowbro,785,"['oblivious', 'own-tempo', 'regenerator']","['water', 'psychic']"
+magnemite,60,"['magnet-pull', 'sturdy', 'analytic']","['electric', 'steel']"
+magneton,600,"['magnet-pull', 'sturdy', 'analytic']","['electric', 'steel']"
+farfetchd,150,"['keen-eye', 'inner-focus', 'defiant']","['normal', 'flying']"
+doduo,392,"['run-away', 'early-bird', 'tangled-feet']","['normal', 'flying']"
+dodrio,852,"['run-away', 'early-bird', 'tangled-feet']","['normal', 'flying']"
+seel,900,"['thick-fat', 'hydration', 'ice-body']",['water']
+dewgong,1200,"['thick-fat', 'hydration', 'ice-body']","['water', 'ice']"
+grimer,300,"['stench', 'sticky-hold', 'poison-touch']",['poison']
+muk,300,"['stench', 'sticky-hold', 'poison-touch']",['poison']
+shellder,40,"['shell-armor', 'skill-link', 'overcoat']",['water']
+cloyster,1325,"['shell-armor', 'skill-link', 'overcoat']","['water', 'ice']"
+gastly,1,['levitate'],"['ghost', 'poison']"
+haunter,1,['levitate'],"['ghost', 'poison']"
+gengar,405,['cursed-body'],"['ghost', 'poison']"
+onix,2100,"['rock-head', 'sturdy', 'weak-armor']","['rock', 'ground']"
+drowzee,324,"['insomnia', 'forewarn', 'inner-focus']",['psychic']
+hypno,756,"['insomnia', 'forewarn', 'inner-focus']",['psychic']
+krabby,65,"['hyper-cutter', 'shell-armor', 'sheer-force']",['water']
+kingler,600,"['hyper-cutter', 'shell-armor', 'sheer-force']",['water']
+voltorb,104,"['soundproof', 'static', 'aftermath']",['electric']
